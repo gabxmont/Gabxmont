@@ -9,6 +9,7 @@ Systems Engineering student from Peru 🇵🇪, focused on building practical so
 - 🚀 Building a solid developer profile step by step  
 
 ## I code with
+
 ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
 ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)
 ![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg)
@@ -19,6 +20,7 @@ Systems Engineering student from Peru 🇵🇪, focused on building practical so
 ![SQL Server](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg)
 ![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg)
 ![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)
+
 
 ## Currently
 - Working on academic and personal projects  
