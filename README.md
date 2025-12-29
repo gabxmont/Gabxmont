@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 I'm Gabo — Systems Engineering student</h1>
+<h1 align="left">Hey 👋 I'm Gabo</h1>
 
 ###
 
